@@ -1,0 +1,862 @@
+LOCATION,CODE
+83 Rd. Booster,83RB
+83rd Zone Lift Station,83LS
+A19 Lift Station,A19L
+Acono River WTP,WRTP
+Acono Well 1,ACO1
+AIL Factory WWTP,AILP
+Alleyne Road Booster,ALNB
+Allison Park STP ,APTP
+Arena Reservoir,ARER
+Ariapita B Booster,ARBB
+Ariapita BP Tank,ABPR
+Ariapita Intake,ARII
+Ariapita Reservoir,ARIR
+Arima Lift Station,MALA-ALS
+Arima Well 1,ARI1
+Arima Well 12,ARI12
+Arima Well 13,ARI13
+Arima Well 14,ARI14
+Arima Well 2,ARI2
+Arima Well 6,ARI6
+Arima WWTP,ARST
+Aripo New WTP,ANTP
+Aripo Spring Intake,ARSI
+Arnos Vale Well 1,AV01
+Arnos Vale Well 2,AV02
+Arouca High Lift Booster,AHLB
+Arouca Reservoir,AWRR
+Arouca Well 1,AR01
+Arouca Well 4,AR04
+Arouca Well 6,AR06
+Arouca Well 7,AR07
+Arouca Well 8,AR08
+Arouca Well 10,AR10
+"Arouca Wells 2,3,4,5",AR25
+Arthur's By the Sea STP,ABSP
+Atagual Intake 1,ATI1
+Atagual Intake 2,ATI2
+Bacolet Well 1,BC01
+Bad Hill Reservoir,BHLR
+Bagatelle Booster,BAGB
+Bagatell Lift Station,BAGLS
+Balmain Gardens STP ,BGTP
+Bamboo 3 WWTP ,BAMB
+Barrackpore Well #3,BRW03
+Basta Hall Reservoir,BAHR
+BB1 Lift Station,BB1L
+Beaumont Booster Station,BEAB
+Beetham Lift Station,BELS
+Beetham WWTP,BEST
+Belle View Booster,BVBS
+Belmont Well,BM01
+Bennett Village Booster,BENB
+Bennett Village Reservoir,BNVR
+Biche Booster Station,BICB
+Biche WTP,BICP
+Blanchisseuse-Damier Intake,BDIN
+Blenheim Village STP,BVTP
+Bloody Bay Booster 1,BBB1
+Bloody Bay Booster 2,BBB2
+Bloody Bay Lift Station,BBLS
+Bloody Bay Reservoir,BBYR
+Bloody Bay Well 1,BB01
+Bloody Bay Well 2,BB02
+Blue Haven Hotel STP,BHHP
+Bon Accord Well 1,BA01
+Bon Accord Well 2,BA02
+Bon Air Lift Station,BALS
+Bon Air West WWTP,BAWP
+Bon Air WWTP,BAST
+Boodoosingh Booster,BDSB
+Boodram STP ,BSTP
+Boundary Road Lift Station,BRLS
+Brasso Seco Paria Intake,BSPI
+Bregon Park STP ,BPST
+Brieves Road Booster,BRDB
+Buccoo STP,BUTP
+Buen Intento WWTP ,BITP
+Buenos Ayres Reservoir,BAYR
+Butler Reservoir,BUTR
+C24 Lift Station,C24L
+Caiman Booster,CMBS
+California Booster,CABS
+California Reservoir,CALR
+California Well 3,CA03
+Calvary Booster Station,
+Calvary Hill Booster,CALB
+Calvary Hill New Reservoir,CHNR
+Calvary Hill Old Reservoir,CHOR
+Cambleton Well,CM01
+Cameron Reservoir,CAMR
+Camp Cumoto STP,CUMO
+Canaan Health Care Centre STP,CHCC
+Cantaro WWTP,CANT
+Cap de Ville Booster,CDVB
+Cap de Ville GWTP,CDVP
+Cap de Ville Well 1,CV01
+Cap de Ville Well 4,CV04
+Caparo Well 2,CP02
+Caparo Well 3,CP03
+Cap-de-Ville Reservoir 1,CDV1
+Cap-de-Ville Reservoir 2,CDV2
+Capriata Intake,CAPI
+Carapal Well 1,CRP01
+Carapal Well 3,CR03
+Carapal Well 5,CR05
+Carapal WTP,CARP
+Carapo Well 1,CAR1
+Carapo Well 2,CAR2
+Carib Homes Lift Station,CHLS
+Caribbean Airline STP,CAST
+Caribbean Dockyard STP,CDST
+Carlsen Field Well 1,CF01
+Carlsen Field Well 10,CF10
+Carlsen Field Well 11,CF11
+Carlsen Field Well 12,CF12
+Carlsen Field Well 13,CF13
+Carlsen Field Well 3,CF03
+Carlsen Field Well 5,CF05
+Carlsen Field Well 9,CF09
+Carlsen Field WTP,CFTP
+Carnbee Well 1,CB01
+Caroni WTP,CWTP
+Cascade Reservoir,CASR
+Castara Village STP,CVTP
+Castries Street Lift Station,CSLS
+Caura Hospital Booster,CHBS
+Caura Hospital STP,CAUR
+Caura Reservoir,CWRR
+Caura WTP,CATP
+Cedros Booster,CEDB
+Cedros Reservoir,CEDR
+Central Park Lift Station,CPLS
+Central Park LS ,CEPS
+Central Park STP,CPTP
+Centre City Mall STP ,MALL
+Centre Mountain Reservoir,CMTR
+Centre Point Mall STP ,CPMP
+Chacon Street Booster,CHAB
+Chacon Street Reservoir,CHSR
+Chaguanas Senior Comprehensive School STP ,CSCS
+Chaguaramas P Reservoir,CHPR
+Charlieville WWTP ,CHAR
+Charlotteville Intake,CHVI
+Charlotteville Reservoir,CHVR
+Charlotteville Well 1,CL01
+Charlotteville Well 2,CL02
+Charlotteville Well 3,CL03
+Charuma Booster Station,CHRB
+Chateau Booster,CHTB
+Chatham Well 1,CH01
+Chatham Well 10,CH10
+Chatham Well 12,CH12
+Chatham Well 13,CH13
+Chatham Well 14,CH14
+Chatham Well 16,CH16
+Chatham Well 2,CH02
+Chatham Well 4,CH04
+Chatham Well 5,CH05
+Chatham Well 7,CH07
+Chatham Well 8,CH08
+Chatham Well 9,CH09
+Chatham WTP,CHAP
+Cipriani Labour College STP,CIPR
+Clarke Road Booster Station,CRDB
+Clarke Road Reservoir,CRDR
+Clarke Road Well 7,CL07
+Clarke Road Well 8,CL08
+Clarke Road WTP,CRWT
+Cleaver Road Reservoir,CRWR
+Coalmine Booster,COAB
+Coastguard STP,CSTP
+Coblentz Avenue Booster,COBB
+Coconut Drive Booster,CDRB
+Coconut Drive Reservoir,CDWR
+Cocorite Booster,COCB
+Conrado Beach Resort STP,CBRP
+Coolman Reservoir,COOR
+Coora/Siparia Well 1,CS01
+Coora/Siparia Well 12,CS12
+Coora/Siparia Well 13,CS13
+Coora/Siparia Well 14,CS14
+Coora/Siparia Well 15,CS15
+Coora/Siparia Well 17,CS17
+Coora/Siparia Well 18,CS18
+Coora/Siparia Well 2,CS02
+Coora/Siparia Well 5,CS05
+Coora/Siparia Well 6,CS06
+Coora/Siparia Well 8,CS08
+Coora/Siparia Well 9,CS09
+Coora-Siparia WTP,CSPP
+Coral Gardens Anaerobic Tanks,SWTCGAT
+Courland Intake,COUI
+Courland Well 1,CO01
+Courland WTP,COUP
+Couva North (Ph 3) Lift Station,CN3L
+Couva North (Ph 4) Lift Station,CN4L
+Couva North WWTP,CNTP
+Couva South WWTP,CSSTP
+Couva STP,COUW
+Covigne Booster,COVB
+Covigne Reservoir,COVR
+Covigne Rural Intake,CRIN
+Craig Hall Intake,CRHI
+Craig Hall Well 1,CR01
+Crown Point Airport STP,CPAP
+Crown Point Hotel STP,CPHT
+Cumaca Intake,CUMI
+Cumuto Well # 1,CUM1
+Cumuto WTP,CUTP
+Curepe Junior Secondary School STP,CSST
+Curepe STP,CURE
+Darceuil Lift Station,DARC
+Debe WWTP,DSTP
+Desalcott WTP,DCTP
+Devenish Hill Reservoir,DEVR
+Diamond Estate Well 1,DE01
+Diamond Estate Well 2,DE02
+Dibe Intake,DIBI
+Diego Martin Lift Station,DMLS
+Diego Martin Well 10,DM10
+Diego Martin Well 11,DM11
+Diego Martin Well 12,DM12
+Diego Martin Well 14,DM14
+Diego Martin Well 15,DM15
+Diego Martin Well 16,DM16
+Diego Martin Well 17,DM17
+Diego Martin Well 9,DM09
+Dinsley Lift Station,DINS
+Dorrington Gardens Well 6,DG06
+Double Bridge Booster Station,DBBS
+Dow Village Booster,DVBS
+Dundee Lift Station,DULS
+Dundonald Hill Booster,DUNB
+Dundonald Hill Reservoir 1,DHR1
+Dunmore Hill Reservoir,DUNR
+Dwight York Stadium Lift Station,DYSL
+Eden Gardens Sewage Pumping Station,EGLS
+Eden Gardens WWTP,EGTP
+Edinburgh 500 WWTP ,ESTP
+Edinburgh South Sewage Pumpng Station,ESLS
+El Dorado Gardens STP,EDGP
+El Dorado Junior & Secondary School STP,EDJS
+El Dorado Youth Camp STP,EDYC
+El Socorro Booster,EISB
+El Socorro Well 1,ES01
+El Socorro Well 10,ES10
+El Socorro Well 11,ES11
+El Socorro Well 12,ES12
+El Socorro Well 13,ES13
+El Socorro Well 14,ES14
+El Socorro Well 1A,ES1A
+El Socorro Well 3,ES03
+El Socorro Well 6,ES06
+El Socorro Well 7,ES07
+El Socorro Well 8,ES08
+El Socorro Well 9,ES09
+El Socorro WTP,ELSP
+Englishman's Bay Well,EB01
+Fairview Park STP ,FPTP
+Fantasy Island Booster,FAIB
+Felicity Reservoir,FELR
+Fernandes Compound Facility STP,FERN
+Fiddlers Dream Lift Station,FDLS
+Five Rivers WWTP,FRST
+Foncette Road Booster,FRDB
+Fort Booster,FORB
+Fort George Reservoir,FTGR
+Fort Read Reservoir,FRRR
+Four Roads Reservoir,FRWR
+Four Roads Tamana Intake,FRTI
+Four Roads Well 1,FR01
+Four Roads Well 2,FR02
+Four Roads Well 5,FR05
+Four Roads Well 6,FR06
+Four Roads Well 7,FR07
+Four Roads Well 8,FR08
+Four Roads Well 9,FRD09
+Four Roads Well 11,FR11
+Four Roads Well 12,FRW12
+Four Roads WTP,FRTP
+Frederick Settlement WWTP,FRED
+Freeport - Todd's Road Well 15,FT15
+Freeport - Todd's Road Well 18,FT18
+Freeport - Todd's Road Well 19,FT19
+Freeport Todd's Road Reservoir,FTRR
+Freeport Well 9,FR09
+Freeport Well 12,FR12
+Freeport Well 14,FR14
+Freeport Well 15,FR15
+Freeport Well 16,FR16
+Freeport Well 17,FR17
+Freeport Well 18,FR18
+Freeport WTP,FREP
+Fyzabad Composite School STP,FCSP
+Fyzabad Well 10,FY10
+Fyzabad Well 12,FY12
+Fyzabad Well 13,FY13
+Fyzabad Well 6,FY06
+Fyzabad Well 7,FY07
+Fyzabad Well 8,FY08
+Fyzabad Well 9,FY09
+Fyzabad WTP,FYZP
+Gasparillo Reservoir,GASR
+Golden Grove Village STP,GGVP
+Golden Grove Well,GG01
+Gonzales Booster,GOWB
+Goodwood Crescent Booster,GCBS
+Gordon Street Booster,GSTB
+Government Farm Booster,GFMB
+Government Farm Reservoir,GVFR
+Government Farm Well 6,GF06
+Grafton Beach Resort STP,GBRP
+Gran Chemin Booster,GCMB
+Gran Couva Booster,GRCB
+Grand Bazaar STP,GRAN
+Grande Riviere Intake,GRIN
+Grande Riviere Well 1,GR1W
+Grandwood Well 1,GW01
+Granville Reservoir,GRAR
+Granville Well 10,GR10
+Granville Well 11,GR11
+Granville Well 13,GR13
+Granville Well 14,GR14
+Granville Well 16,GR16
+Granville Well 17,GR17
+Granville Well 5,GR05
+Granville Well 6,GR06
+Granville Well 9,GR09
+Granville WTP,GRAP
+Green Acres STP,GAST
+Green Hill Intake,GRHI
+Green Hill Reservoir,GRHR
+Guaico Booster,GUAB
+Guaico Reservoir,GUAR
+Guaico Tamana High Lift,GTHL
+Guanapo Reservoir,GUWR
+Guanapo Well # 1,GUA1
+Guanapo WTP,GUAP
+Guaracara Intake,GUAI
+Guaracara Reservoir,GRCR
+Guayaguayare Petrotrin WTP,GPTP
+Guayaguayare Reservoir,GYGR
+Guayaguayare Well 1,GY01
+Guayaguayare Well 3,GY03
+Guayaguayare Well 4,GY04
+Guayaguayare WTP,GUAT
+Gulf City STP ,GCSP
+Gulf View No1 Lift Station ,GV1L
+Gulf View No2 Lift Station,GV2L
+Harmony Hall Lift Station ,HHLS
+Harmony Hall WWTP ,HHTP
+Harts Cut Booster,HCBS
+Hermitage Booster,HERB
+Hermitage Heights STP ,HHST
+Hermitage Well 1,HE01
+Hermitage Well 2,HE02
+Herreira Hill Reservoir,HERR
+Highland WTP,HIGP
+Hillsborough Dam WTP,HIDP
+Hillsborough West Intake,HIWI
+Hillsborough West WTP,HIWP
+Hilton Tobago Plantation STP,HTPP
+Hollis WTP,HOLP
+Homeland Gardens STP,HGTP
+Hospital Reservoir,HOSR
+Hutton Road Booster,HRDB
+Irving Street Booster,ISTB
+Isthmus Booster Station,ITHB
+Ivis Gardens STP,IVGP
+James Street Booster,JSTB
+Johnson & Johnson Lift Station,JJLS
+Kelly Village Reservoir,KLVR
+KFC STP ,KFCW
+Khandahar Booster,KHAB
+King George V Park Well 2,KGP2
+King George V Park Well 3,KGP3
+King George V Park Well 4,KGP4
+King Peter's Bay Booster,KPBB
+King's Bay Well 1,KB01
+King's Bay WTP,KBYP
+Knagg's Hill Booster,KNGB
+Knagg's Hill Reservoir,KNHR
+KTO Reservoir,KTOR
+La Canoa Booster,LCWB
+La Canoa Intake,CANI
+La Canoa Well 1,CA01
+La Couroupria Gardens STP ,LCGP
+La Estancia Booster Station,LAEB
+La Estancia Reservoir,LAER
+La Fillette Well 1,FI01
+La Fillette Well 2,FI02
+La Florisante Lift Station,LFLS
+La Florisante STP,LFST
+La Fortune WTP,LFWT
+La Hoe Booster,HOEB
+La Horquette Booster Station,LAHB
+La Horquetta Lift Station,MALA-LHLS
+La Lune Reservoir,LALR
+La Paille Lift Station,LAPS
+La Pastora Reservoir,LAPR
+La Pastora Reservoir Road Intake,LPRI
+La Pastora Well 2,PA02
+La Pastora Well 3,PA03
+La Pastora Well 4,PA04
+La Platta Gardens STP,LPGP
+La Platte Booster,PLAB
+La Puerta Booster,PUEB
+La Resource STP,LRST
+Lady Chancellor Reservoir,LCHR
+Lady Young Booster,LYBS
+Lange Park Lift Station,LPLS
+Lange Park WWTP ,LPTP
+L'Anse Fourmi Booster,LAFB
+L'Anse Fourmi Reservoir,LAFR
+L'Anse Mitan Booster,LMBS
+Las Cuevas Beach Facility STP,LCBP
+Las Cuevas Intake and Treatment,LCIT
+Las Cuevas Reservoir,LCUR
+Las Lomas Well 10,LL10
+Las Lomas Well 11,LL11
+Las Lomas Well 4,LL04
+Las Lomas Well 5,LL05
+Las Lomas Well 7,LL07
+Las Lomas Well 8,LL08
+Las Lomas Well 9,LL09
+Las Lomas WTP,LLOP
+Laventille Hill Booster,LHLB
+Laventille Reservoir,LAVR
+Lawrence Park Reservoir,LAWR
+Lillian Heights STP,LILP
+Limpet Booster,LTBS
+Lluengo Intake,LIUI
+Lluengo/Naranjo WTP,LNTP
+Longdenville Booster,LONB
+Lopinot Intake,LOPI
+Los Armadillos Intake,LAIN
+Lowland Booster,LWLB
+Lynton Gardens STP,LYND
+Macoya Lift Station,MACO
+Mahaica Reservoir,MAHR
+Malabar Reservoir,MALR
+Malabar WWTP,MALA
+Malgretoute Booster Station,MGTB
+Malick Booster,MALB
+Malick Reservoir,MARE
+Maloney Booster Station,MLNB
+Maloney Reservoir,MLNR
+Maloney WTP,MALP
+Maloney WWTP,MALO
+Manzanilla Beach Resort STP,MBRP
+Marabella Junior Secondary School STP ,MJTP
+Marabella Senior Comprehensive School STP ,MSCS
+Marac Reservoir,MRCR
+Maracas Bay Hotel STP,MBHS
+Maracas Beach Facility STP,MBFP
+Maracas Gardens STP,MGST
+Maraval Well 5,MAW5
+Maraval WTP,MARP
+Marryat Booster,MSTB
+Marryat Street Reservoir,MARR
+Mason Hall Booster,MASB
+Mason Hall Well 1,MH01
+Matelot Intake,MATI
+Matelot Well 1,MA1W
+Matura ,MAIN
+Matura Well 1,MT1W
+Matura Well 2,MT2W
+Matura Well 3,MT3W
+Matura WTP,MATP
+Maturita Booster,MTBS
+Maximum Security Prison STP ,MSPP
+Mayaro Reservoir,MYRR
+Mayaro Well 1,MY01
+Mayaro Well 10,MY10
+Mayaro Well 12,MY12
+Mayaro Well 13,MY13
+Mayaro Well 15,MY15
+Mayaro Well 16,MY16
+Mayaro Well 17,MY17
+Mayaro Well 2,MY02
+Mayaro Well 8,MY08
+Mayaro Well 9,MY09
+Mayaro WTP,MAYP
+Mayo Intake,MAYI
+Mayo Reservoir,MAYR
+McShine Reservoir,MCSR
+Medine Street Reservoir,MEDR
+Mendez Drive Booster,MDRB
+Mid Centre Mall STP ,MIDC
+Midway Park STP ,MPTP
+Milford Court Anaerobic Tanks,SWTMFAT
+Milford Court Lift Station,MCLS
+Milford Court STP,MCTP
+Moka Well 1,MK01
+Moka Well 2,MK02
+Moka Well 3,MK03
+Moka Well 4,MK04
+Moka Well 5,MK05
+Mon Repos Intake,MRIN
+Montevideo Intake,MONI
+Montgomery Booster,MONB
+Morang Intake,MORI
+Morichal Intake,MCHI
+Morichal Reservoir,MOWR
+Morne Diablo Well #5,
+Morne Diablo Well 1,MD01
+Morne Diablo Well 4,MD04
+Morne Diablo Well 5,MD05
+Morne La Croix Intake,MLCI
+Morvant Booster,MORB
+Morvant Reservoir 1,MOR1
+Mount D'Or Booster,MTDB
+Mount Hope Hospital STP ,MTHH
+Mountain View STP,MVST
+Mt. Hololo Booster,MTHB
+Mt. Hololo Reservoir,MTHR
+Mt. Hope Lift Station,MHLS
+Mt. Hope Reservoir,MHWR
+Mt. Irvine Bay Hotel STP,MIBP
+Mt. Irvine Beach Facility STP,MIBF
+Mt. Moriah Booster,MMBS
+Mt. Pleasant Park STP,MPPP
+Naparima Booster,NAPB
+Naparima Reservoir,NAPR
+Naranjo Intake,NARI
+Navet WTP,NAVP
+New Grant Reservoir,NGRR
+New Valencia WWTP,NEWV
+New Village Reservoir,NVIR
+North Oropouche WTP,NOTP
+Oasis Gardens Lift Station,OGLS
+O'Connor Lift Station,MALA-OLS
+Ocean Avenue Lift Station,OALS
+Old Valencia WWTP,OLDV
+Orange Field WWTP,OFTP
+Orchard Gardens WWTP ,ORCH
+Ortoire Hill Road Reservoir,OHRR
+Orupune Lift Station,ORLS
+Orupune WWTP,ORTP
+Paradise Gardens Lift Station,PGLS
+Paradise Gardens STP,PARA
+Parakeet Street Lift Station,PSLS
+Paramin HLS Level 03 ,PHL3
+Paramin Level 01 High Lift,PHL1
+Paramin Level 01 Reservoir,PR01
+Paramin Level 02 High Lift,PHL2
+Paramin Level 02 Reservoir,PR02
+Paramin Level 03 Reservoir,PR03
+Paramin Level 04 Reservoir,PR04
+Paramin Well 2,PN02
+Paramin Well 3,PN03
+Paramin Well 6,PN06
+Paramin Well 7,PN07
+Paramin WTP,PARP
+Parrot Hall Booster 1,PHB1
+Parrot Hall Reservoir,PAHR
+Patience Hill Reservoir,PATR
+Penal Junior Secondary School STP ,PJSP
+Penal Reservoir,PENR
+Penal Rock Road Reservoir 2,PRR2
+Penal Well 13,PE13
+Penal Well 17,PE17
+Penal Well 18,PE18
+Penal Well 20,PE20
+Penal Well 21,PE21
+Penal Well 23,PE23
+Penal Well 24,PE24
+Penal Well 25,PE25
+Penal Well 3,PE03
+Penal Well 4,PE04
+Penal Well 6,PE06
+Penal WTP,PENP
+Penco Lands WWTP ,PLTP
+Pepper Hill Reservoir,PEPR
+Periwinkle Lift Station,PWLS
+Perseverance Sewage Pumping Station,PRLS
+Petite Curucaye Booster,PCBS
+Piarco Airport (WASA) WWTP,PAST
+Picton Booster 1,PIB1
+Picton Booster 2,PIB2
+Picton Reservoir 1,PIR1
+Picton Reservoir 2,PIR2
+Picton Reservoir 3,PIR3
+Pigeon Point Heritage Park STP,PPHP
+Piparo Booster Station,PIPB
+Pipiol Intake,PIPI
+Plaisance Park Reservoir,PLAR
+Plasaince Park Lift Station,PPLS
+Plasaince Park STP,PPSP
+Pleasantville Lift Station,PVLS
+Plipdeco Point Lisas STP,PPLP
+Point Cumana Reservoir,PTCR
+Point Fortin Junior Secondary School STP,PFJP
+Point Fortin Reservoir,PTFR
+Point Fortin Senior Secondary School STP ,PFTP
+Point Fortin Well 12,PF12
+Point Fortin Well 14,PF14
+Point Fortin Well 16,PF16
+Point Fortin Well 17,PF17
+Point Fortin Well 18,PF18
+Point Fortin Well 19,PF19
+Point Fortin Well 20,PF20
+Point Fortin Well 2,PF02
+Point Fortin WTP,PTFP
+Point Gourde STP,PGST
+Point Pleasant STP,PPTP
+Poolside STP,POOL
+Providence Gardens STP,PROV
+Quare Booster,QUAB
+Quare Intake,QUAI
+Quarry Road Booster,QRDB
+Quarry Village Reservoir,QRVR
+Queen's Park Savannah Well 1,QP01
+Queen's Park Savannah Well 4,QP04
+Queen's Park Savannah Well 5,QP05
+Queen's Park Savannah Well 8,QP08
+Queen's Park Savannah Well 9,QP09
+Queen's Park Savannah Well 10,QP10
+Rampanalgas Booster Station,RABS
+Ramsaran Park STP ,RAMS
+Ravine Sable Well 1,RS01
+Ravine Sable WTP,RSGW
+Real Springs WWTP,RSST
+Red Hill Reservoir,REDR
+Retrench Lift Station,RTLS
+Richmond SWTP,RICS
+Richplain Booster Station,RPBS
+Ridge Wood Heights STP,RWHP
+Rincon Well 1,RI01
+River Estate Well 2,RE02
+River Estate Well 3,RE03
+River Estate Well 4,RE04
+River Estate Well 5,RE05
+River Estate Well 6,RE06
+River Estate Well 7,RE07
+River Estate Well 9,RE9
+River Estate Well 10,RE10
+River Estate Well 11,RE11
+River Estate WTP,RETP
+River Estates Booster,REBS
+Rossland Booster,ROSB
+Rossland Reservoir,RWRR
+Roxborough Fire Station STP,RFSP
+Roystonia Sewage Pumping Station,RSLS
+Rudranath Capildeo Learning Resource Center STP ,RCLW
+Runnemede Reservoir,RUNR
+Salybia Intake,ARAI
+Sam Boucaud STP,SAMB
+Samaan Grove Lift Station 1,SGLS1
+Samaan Grove Lift Station 2,SGLS2
+San Fernando Booster,SFBS
+San Fernando New Reservoir,SFNR
+San Fernando WWTP ,SFTP
+San Francique Reservoir,SFQR
+San Juan Comprehensive School STP,SJCS
+San Pedro Booster,SPDB
+San Souci Booster Station,SSBS
+San Souci Well,SSOW
+Sandy Point Club STP,SPCP
+Sandy Point Village STP,SPVP
+Sandy River Well 1,SRW1
+Sangre Grande Booster,SGRB
+Sangre Grande Hospital STP ,SGHP
+Sangre Grande Junior Secondary School STP ,SGSS
+Sangre Grande Reservoir,SGWR
+Sangre Grande Well 1,SG01
+Sangre Grande Well 2,SG02
+Sangre Grande Well 3,SG03
+Santa Barbara Intake,STBI
+Santa Cruz Booster,SCBS
+Santa Cruz Reservoir,STCR
+Santa Cruz Well 1,SC01
+Santa Cruz Well 1 (Santa Cruz PS),SCP1
+Santa Cruz Well 2 (Santa Cruz PS),SCP2
+Santa Cruz Well 5,SC05
+Santa Cruz Well 6,SC06
+Santa Monica Gardens STP,SMGP
+Santa Rosa Heights Lift Station,SRHS
+Santa Rosa Heights STP,SRHP
+Savonetta Booster,SAVB
+Scarborough Abattoir STP,SATP
+Scarborough WWTP,SSTP
+School Street Booster,SCHB
+Scorpion Booster,SCOB
+Scott Road Reservoir,SRDR
+Scott's Road Well #1,SR01
+Scott's Road Well #2,SF02
+Sea View Booster,SVBS
+Shaw Park Lift Station,SPLS
+Sierra Leone Booster,SLBS
+Signal Hill Booster,SHLB
+Signal Hill Government Headquarters STP,SHGH
+Signal Hill Reservoir,SIGR
+Signal Hill School STP,SHSP
+Silver Bridge Booster,SBBS
+Silver Reservoir,SILR
+Silver Tank Booster,STKB
+Simeon Road Booster Station,SRDB
+Siparia Reservoir 1,SIR1
+Siparia Reservoir 2,SIR2
+Siparia Senior Comprehensive School STP ,SSCS
+Smith's Development STP,SDSP
+South Maloney Well 1,SM01
+South Maloney Well 2,SM02
+South Oropouche Booster Station,SOPB
+Southwest Tobago - Lift Station 1,SWTLS1
+Southwest Tobago - Lift Station 10,SWTLS10
+Southwest Tobago - Lift Station 11,SWTLS11
+Southwest Tobago - Lift Station 12,SWTLS12
+Southwest Tobago - Lift Station 13,SWTLS13
+Southwest Tobago - Lift Station 2,SWTLS2
+Southwest Tobago - Lift Station 4,SWTLS4
+Southwest Tobago - Lift Station 5,SWTLS5
+Southwest Tobago - Lift Station 6,SWTLS6
+Southwest Tobago - Lift Station 7,SWTLS7
+Southwest Tobago - Lift Station 8,SWTLS8
+Southwest Tobago - Lift Station E1,SWTLSE1
+Southwest Tobago - Lift Station E3,SWTLSE3
+Southwest Tobago - Samaan Grove LS1,SWTSG1
+Southwest Tobago - Samaan Grove LS2,SWTSG2
+Springland Booster,SPRB
+Springland Reservoir,SPRR
+St Clair A Well,SCAW
+St Clair Well # 1,SCW01
+St Clair Well # 4,SCW04
+St Clair Gardens Lift Station,STCL
+St Joseph Booster,
+St. Anns Booster,STAB
+St. Ann's Intake,STAI
+St. Anns Reservoir,STAR
+St. Ann's Well # 1,SA01
+St. Ann's Well # 2,SA02
+St. Augustine Reservoir,SAWR
+St. Augustine Senior Comprehensive School STP,SACS
+St. Barbs Booster,STBB
+St. Barbs Reservoir,STBR
+St. Clair Booster,STCB
+St. John Intake,STJI
+St. John's Booster,STJB
+St. Johns Road Reservoir,STJR
+St. Joseph Booster,SJOB
+St. Joseph Reservoir (No.1),SJR1
+St. Joseph Reservoir (Old),SJWR
+St. Joseph Well 1,STJ1
+St. Julien Booster Station,SJBS
+St. Mary's Booster Station,STMB
+Stonebright Amoco Well 1,SMW1
+Stonebright Amoco Well 3,SMW3
+Stonebright WTP,SBRP
+Stiker's Village Lift Station,SVLS
+Striker's Village WWTP ,SVTP
+Studley Park Waste Disposal STP,SPWD
+Subero Street Booster,SUBB
+Surrey Village Intake,SURI
+Susconusco Intake,SUSI
+Tabaquite Booster Station,TABB
+Tacarigua Well 13,TA13
+Tacarigua Well 14,TA14
+Tacarigua Well 15,TA15
+Tacarigua Well 16,TA16
+Tacarigua Well 2,TA02
+Tacarigua Well 3,TA03
+Tacarigua Well 4,TA04
+Tacarigua Well 5,TA05
+Tacarigua Well 6,TA06
+Tacarigua Well 8,TA08
+Tacarigua Well 9,TA09
+Tacarigua WTP,TACP
+Talparo Booster,TALB
+Talparo Reservoir 1,TAR1
+Talparo Reservoir 2,TAR2
+Talparo Well # 1,TA01
+Talparo WTP,TLWP
+TCL Mayo Booster,TCLB
+TCO Booster Station,TCOB
+Techier Well 13,TS13
+Techier Well 16,TS16
+Techier Well 19,TS19
+Techier Well 20,TS20
+Techier Well 21,TS21
+Techier WTP,TSP
+Techier WWTP ,TSTP
+Terrace Vale Booster Station,TVBS
+Terracita Booster Station,TERB
+Teteron Barracks STP,TETB
+The Park Booster,TPBS
+The Whim Reservoir,WHIR
+Thick Village Booster Station,THVB
+Toco Reservoir,TTCR
+Toco Reservoir (Tobago),TOCR
+Todd's Road Booster,TRDB
+Tombausson Intake,TOMI
+Tompire WTP,TMTP
+Tractor Hill Booster,THBS
+Transport Lift Station,TRLS
+Trincity (WASA) WWTP,TCST
+Trincity Industrial Lift Station,TCLS
+Trincity Lagoons,TCLA
+Trinity Dam Reservoir,TRDR
+Trinity WTP,TRYP
+Tropikist Hotel STP,THSP
+Tucker Valley Booster,TVWB
+Tucker Valley Well 10,TV10
+Tucker Valley Well 15,TV15
+Tucker Valley Well 16,TV16
+Tucker Valley Well 16A,TV16A
+Tucker Valley Well 17,TV17
+Tucker Valley Well 25,TV25
+Tucker Valley Well 30,TV30
+Tucker Valley Well 32,TV32
+Tucker Valley Well 33,TV33
+Tucker Valley Well 4,TV04
+Tucker Valley Well 6,TV06
+Tucker Valley WTP,TVTP
+Tulip Booster,TULB
+Tumpuna Gardens Lagoon,TGLA
+Turtle Beach Hotel STP,TBHP
+Tyrico Intake,TYRI
+Union Claxton Bay Secondary School STP ,UCBS
+Union Hall (Ph1) Lift Station ,UH1LS
+Union Hall (Ph2) Lift Station,UH2LS
+Union Road Booster,URDB
+Valley View Reservoir,VVRS
+Valley View Booster,VVBS
+Valsayn A Booster,VNAB
+Valsayn B Booster,VNBB
+Valsayn Teachers College WWTP,VTCP
+Valsayn Well 10,VA10
+Valsayn Well 11,VA11
+Valsayn Well 12,VA12
+Valsayn Well 13,VA13
+Valsayn Well 14,VA14
+Valsayn Well 15,VA15
+Valsayn Well 16,VA16
+Valsayn Well 17,VA17
+Valsayn Well 3,VA03
+Valsayn Well 5,VA05
+Valsayn Well 6,VA06
+Valsayn Well 7,VA07
+Valsayn Well 8,VA08
+Valsayn Well 9,VA09
+Valsayn WTP,VNTP
+Vessigny Beach Resort STP,VBTP
+Wallerfield Well 18,WA18
+Wallerfield Well 19,WA19
+WASA Head Office Lift Station,HOLS
+WASA Head Office WWTP,HOST
+Waterloo High School STP,WHSP
+Wellington Garden Booster,WELB
+Wellington Gardens Lift Station,WGLS
+West Park STP ,WPTP
+West Vale Booster Station,WVBS
+Westwinds Booster,WWBS
+Wharf Trace Booster,WTRB
+Wharf Trace Booster 2,WTRB2
+Woodland Reservoir,WDLR
+Yahab Intake,YAHI
+Zion Hill Booster,ZHLB
+Zion Hill Reservoir,ZHLR
+St. Joseph Head Office,SJHO
+Chaguaramas ,CHAG

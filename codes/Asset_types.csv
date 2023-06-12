@@ -1,0 +1,181 @@
+ASSET_TYPE,CODE
+Access / Egress,AEG
+Access Platform,ACP
+Actuator,ACT
+Aeration System,AER
+Air Handling System,AHS
+Analyzer,ANL
+Ash Handling Systems,ASH
+Auto Dialer,AUD
+Automatic Sampler,ASM
+Battery Charger,BCH
+Beam,BEA
+Bearings,BAR
+Biogas Burner,BGB
+Blower Systems,BSY
+Building Place Holder,BPH
+Building Structure,BST
+Ceiling,CEL
+Chamber,CHA
+Chemical System,CMS
+Clarifier,CLA
+Codes Compliance,CCM
+Column,COL
+Communication Systems,CSY
+Compressed Air System,CAS
+Control Cabinet,CAB
+Control Panel,CPL
+Control Timer,CNT
+Controller,CON
+Conveyor,CNV
+Cooling System,CLS
+Curbing,CUR
+Dehumidifier,DEH
+Disinfection,DIS
+Distribution Transformer,DTR
+Distributor,DIT
+Domestic Plumbing System,DPS
+Door,DOR
+Drain,DRA
+Ducting,DUC
+Eddie Current Coupling,ECC
+Electrical Substation,ESS
+Electrical System Place Holder,EPH
+Elevator,ELE
+Emergency Lighting,ELT
+Emergency Power,EPW
+Emergency Ventilation,EVT
+Entry / Exit Monitor,EEM
+Exterior Finish,EXF
+Exterior Stair or Ladder,ESL
+Exterior Wall,EWA
+Eye Wash,EYE
+Fall Arrest System,FAR
+Fence,FEN
+Filters,FLT
+Fire Alarm System,FAS
+Fire Suppression,FSU
+Floor,FLR
+Floor Slab,FLS
+Flow Control,FLC
+Flow Meter,FLM
+Fuel Storage & Chemical Spill Containment,SSC
+Gas Draw Off Systems,GRO
+Gas Monitor,GSM
+Gate,GAT
+Gate,GTE
+Gauge,GAU
+Gear Drive,GRD
+Generator,GEN
+Generator Control Panel & Automatic Transfer Switch,GCP
+Glycol Systems,GSY
+Grating,GRA
+Grinder,GRI
+Grit Removal,GTR
+Ground Fault Indicator,GFI
+Handrail,HAN
+Hatch,HAT
+Heating System,HSY
+Hoist Beam,HOB
+Hoisting Equipment,HEQ
+Hydro Service,HSE
+Incineration Systems,INS
+Instrumentation & Control Place Holder,IPH
+Intake,INT
+Interior Finish,INF
+Junction Box,JNB
+Ladder,LAD
+Lagoon,LAG
+Landscaping,LAN
+Life Safety & Compliance Place Holder,LSC
+Lighting,LGT
+Lightning Arrest,LAR
+Local Control System,LCS
+Lubricating Unit,LBU
+Main Switch,MSW
+Mechanical System Place Holder,MPH
+Metering,MET
+Miscellaneous Building,MBU
+Miscellaneous Chamber/Tank/Vessel,CTV
+Miscellaneous Electrical,MEL
+Miscellaneous Instrumentation,MIS
+Miscellaneous Life Health and Safety,MHS
+Miscellaneous Mechanical,MEC
+Miscellaneous Process Equipment,MPE
+Miscellaneous Siteworks,MSK
+Miscellaneous Structural,MST
+Mixer,MIX
+Monitor & Indicator,MIN
+Motor,MOT
+Motor Control Center,MCC
+Odour Control,ODC
+Oil Systems,OSY
+Package Plant,PKP
+Panelboard,PNB
+Personal Protective Equipment,PPE
+Pipe Support,PIS
+Piping,PIP
+PLC,PLC
+Power Factor Correction Capacitor,PFC
+Power Receptacle,PWR
+Power Supply Unit,PSU
+Power Transformer,PTR
+Primary Distribution System,PDS
+Primary Feeder,PRF
+Process System Place Holder,PPH
+Pump,PUM
+Pump Shaft,PSH
+Railing,RAI
+Recorder,REC
+Rectifier,RTF
+Resistor,RES
+Resistor Temperature Detector,RTD
+Retaining Wall,RTW
+Road,ROA
+Roofing System,RFS
+Rotory Phase Converter,RPC
+"Safety Post, Rail or Chain",SPT
+Scraper,SCR
+Screen,SRN
+Scrubber Systems,SCS
+Secondary Distribution System,SDS
+Secondary Feeder,SFD
+Secondary Treatment,SET
+Security System,SEC
+Sedimentation,SED
+Sensor Element,SEL
+Sidewalk,SDW
+Signal Converter,SCN
+Signboard,SGN
+Site Drainage,SDR
+Sitework Place Holder,SPH
+Sludge Management,SLM
+SOLENOID,SOL
+Sprinkler System,SKS
+Stair,STA
+Standby Power Source,SPS
+Starter,STR
+Steam Systems,SSY
+Structural,STL
+Structural Component Place Holder,SRP
+Surge Protection,SUP
+Surveillance System,SUR
+Switch,SWH
+Switch,SWT
+Switchgear,SWG
+Tank,TNK
+Terminal Panel,TRP
+Tertiary Treatment,TRT
+Thrust Block,THB
+Totaliser,TOT
+Transformer Base,TRB
+Transmitter,TRA
+UPS,UPS
+Valves,VAL
+Vent,VNT
+Ventilation System,VSY
+Wall,WAL
+Wall Thimble,WAT
+Well Alarm,WEA
+Window,WIN
+Wet Well,WWE

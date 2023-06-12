@@ -1,0 +1,81 @@
+PROCESS,CODE
+AER,Aeration
+ALM,Alum
+AMM,Ammoniation
+AMT,Atmosphere Monitoring
+ASI,Instrument Air System
+ASP,Process Air System
+AUX,Auxiliary System
+BWH,Backwash
+CHM,Chamber (DO NOT USE)
+CLA,Pre-chlorination
+CLB,Post-chlorination
+CLC,Trim-chlorination
+COG,Co-Generation
+CON,CONVEYOR
+CSO,Combined Storm Overflow
+CW ,City Water System
+DCL,De-chlorination
+DEW,Dewatering
+DIG,Digestion
+DIS,Disinfection
+DOZ,Disinfection Ozone
+DST,Distribution (Local Distribution)
+ELS,Electrical System
+FLH,FLUSHING SYSTEM
+FLO,Flocculation
+FLT,Filtration 
+FLU,Fluoridation
+FPW,Filtered Plant Water
+FTN,Final Tanks
+GAC,Granular Activated Carbon
+GAS,Administration Support
+GRK,Grounds - Property 
+HRS,Heat Recovery (Steam)
+IAC,Instrumentation and Control
+INC,Incineration
+ITS,Information Technology Systems
+MBR,Membrane Bioreactor
+MCS,Shops Mechanical / Welding 
+MTS,Multiple Treatment Stages
+OCS,Odour Control System
+PAC,Powder Activated Carbon
+PCL,Polyaluminum Chloride
+PHA,pH Adjustment
+PLS,Polishing
+PLT,Preliminary Treatment
+POL,Polymer
+PRM,Primary Treatment
+PRS,Phosphorus Removal System
+PWA,Plant Water
+RAS,Return Activated Sludge
+RBC,Rotating Biological Contractor
+RES,Reservoir
+RVO,Reverse Osmosis
+RWA,Raw Water
+SAI,Service Air (Non Instrument)
+SAS,Septage Acceptance System
+SDI,Sludge Distribution
+SDS,Sludge Discharge
+SED,Sedimentation
+SEP,Septic Tanks
+SLD,Sludge Drying
+SLO,Sludge Loading and Odour Control 
+SM,Spill Management
+SPC,System Process Control
+SPS,Sewage Pumping SYSTEM
+SPW,Standby Power
+SRN,SCREENING PROCESS
+STR,Secondary Treatment
+SWI,Storm Water Influent
+SYP,System Pressure Points
+TED,Treated Effluent Discharge
+THK,Thickening Waste Activated Sludge
+TRW,Treated Water
+UNK,Unknown
+VEH,Vehicles
+WAS,Waste Activated Sludge
+WPS,Water Pumping Station
+WWI,Wastewater Influent
+WWW,Waste Water (Residue Management)
+ZMC,Zebra Mussel Control
