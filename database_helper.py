@@ -14,14 +14,14 @@ app.app_context().push()
 #     db.session.add(AssetType(description=at, code=co))
 # db.session.commit()
 
-# Location Codes
-data = pd.read_csv("codes\Location_codes.csv")
-location = list(data["LOCATION"])
-code = list(data["CODE"])
+# # Location Codes
+# data = pd.read_csv("codes\Location_codes.csv")
+# location = list(data["LOCATION"])
+# code = list(data["CODE"])
 
-for lo, co in zip(location, code):
-    db.session.add(LocationCode(description=str(lo), code=str(co)))
-db.session.commit()
+# for lo, co in zip(location, code):
+#     db.session.add(LocationCode(description=str(lo), code=str(co)))
+# db.session.commit()
 
 # Process Codes
 data = pd.read_csv("codes\Process_codes.csv")
@@ -32,11 +32,15 @@ for pr, co in zip(process, code):
     db.session.add(ProcessCode(description=pr, code=co))
 db.session.commit()
 
-# Service Codes
-data = pd.read_csv("codes\Service_codes.csv")
-service = list(data["SERVICE"])
-code = list(data["CODE"])
+# # Delete all rows
+# db.session.query(ProcessCode).delete()
+# db.session.commit()
 
-for se, co in zip(service, code):
-    db.session.add(ServiceCode(description=se, code=co))
-db.session.commit()
+# # Service Codes
+# data = pd.read_csv("codes\Service_codes.csv")
+# service = list(data["SERVICE"])
+# code = list(data["CODE"])
+
+# for se, co in zip(service, code):
+#     db.session.add(ServiceCode(description=se, code=co))
+# db.session.commit()

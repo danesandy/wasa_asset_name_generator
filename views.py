@@ -24,10 +24,28 @@ class GenerateAsset(Resource):
         parser.add_argument('location_code', required=True, help="Location code cannot be blank!")
         parser.add_argument('process_code', required=True, help="Process code cannot be blank!")
         parser.add_argument('asset_type', required=True, help="Asset type cannot be blank!")
-        parser.add_argument('asset_desc', required=True, help="Asset description cannot be blank!")
+        # parser.add_argument('asset_desc', required=True, help="Asset description cannot be blank!")
 
         # Parse the incoming request
         args = parser.parse_args()
+
+        # Fetch descriptions based on provided codes
+        location_desc = LocationCode.query.filter_by(code=args['location_code']).first().description
+        process_desc = ProcessCode.query.filter_by(code=args['process_code']).first().description
+        asset_type_desc = AssetType.query.filter_by(code=args['asset_type']).first().description
+
+        # Count the existing assets with the same combination of codes
+        # local_number = Asset.query.filter_by(service_code=args['service_code'],
+        #                                      location_code=args['location_code'],
+        #                                      process_code=args['process_code'],
+        #                                      asset_type=args['asset_type']).count() + 1
+        local_number = Asset.query.filter(
+                                            Asset.service_code.has(code=args['service_code']),
+                                            Asset.location_code.has(code=args['location_code']),
+                                            Asset.process_code.has(code=args['process_code']),
+                                            Asset.asset_type.has(code=args['asset_type'])
+                                        ).count() + 1
+
 
         # Query the highest asset number in the Asset model and increment it by one
         last_asset = Asset.query.order_by(desc(Asset.asset_number)).first()
@@ -39,11 +57,29 @@ class GenerateAsset(Resource):
         # Concatenate the codes and the new asset number to form the asset name
         asset_name = f"{args['service_code']}-{args['location_code']}-{args['process_code']}-{args['asset_type']}-{asset_number}"
 
-        # Get the asset description from the request data
-        asset_desc = args['asset_desc']
+        
+        # Generate the asset description
+        asset_desc = f"{process_desc} {asset_type_desc} {local_number} at {location_desc}"
+
+        service_code_obj = ServiceCode.query.filter_by(code=args['service_code']).first()
+        location_code_obj = LocationCode.query.filter_by(code=args['location_code']).first()
+        process_code_obj = ProcessCode.query.filter_by(code=args['process_code']).first()
+        asset_type_obj = AssetType.query.filter_by(code=args['asset_type']).first()
+
+        # Add the new asset to the database
+        # new_asset = Asset(
+        #                   service_code=args['service_code'], location_code=args['location_code'],
+        #                   process_code=args['process_code'], asset_type=args['asset_type'],
+        #                   asset_number=asset_number)
+        new_asset = Asset(service_code=service_code_obj, location_code=location_code_obj,
+                  process_code=process_code_obj, asset_type=asset_type_obj, asset_number=asset_number)
+
+        db.session.add(new_asset)
+        db.session.commit()
+
 
         # Return the result as a JSON response
-        return {'asset_name': asset_name, 'asset_desc': asset_desc}, 200
+        return {'asset_name': asset_name, 'asset_desc': asset_desc, 'local_number': local_number}, 200
 
 
 api.add_resource(GenerateAsset, '/generate')
