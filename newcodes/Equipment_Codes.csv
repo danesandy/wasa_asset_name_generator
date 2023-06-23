@@ -1,0 +1,128 @@
+Equipment_Code,Description
+AC,Air Conditioner
+ACT,Actuator
+AF,Anaerobic Filter
+AHU,Air Handling Unit
+ALR,Alarm
+AM,Atmosphere Monitoring
+ANL,Analyser
+APP,Software Applications
+BAT,Battery
+BFP,Backflow Preventer
+BL,Blower
+BO,Boiler
+BRCH,Breaching
+BU,Burner
+C,Compressor
+CAP,Capacitor
+CB,Circuit Breaker (also see PLB )
+CF,Centrifuge
+CH,Chamber
+CHL,Chlorinator
+CI,Chiller
+CL,Classifier (Grit)
+CLR,Clarifier
+CM,Collector Mechanism
+CMP,Compactor
+COM,"Communications Equipment, LAN, Telephone"
+CP,Control Panel
+CPU,Computer
+CRN,Crane
+CT,"Controller, Temperature"
+CU,Condensing Unit
+CV,"Conveyor equipment (belt, bucket, screw, etc.)"
+CYC,"Cyclone, vortex"
+D,Air Dryer/Dehumidifier
+DC,Data Cable
+DD,Display Device
+DM,"Damper, Louvre"
+DR,Door
+DRN,Drains
+DRV,"Drive Electric, Mechanical"
+DU,Duct
+ELQ,Electrical Equipment
+ELV,Elevator
+ENG,Engine
+EV,Evaporator
+F,Filter
+FA,Fire Alarm System
+FD,"Feeder, Chemical"
+FEBU,Feeder Electrical (Includes Busbars of any Voltage)
+FEQ,Fire Equipment
+FN,Fan
+FP,Flushing Point
+FU,Furnace
+FX,Flame Arrestor
+G,Sluice Gate
+GA,Gauge
+GB,Gearbox
+GDR,"Grinder, Comminutor"
+GEN,Generator
+GQ,Grounds Equipment
+GS,Gas Distribution
+HE,"Heat Exchanger, Evaporator"
+HTR,Heater
+HU,Humidifier
+INQ,Instrument Equipment
+INT,Intake Structure
+IRG,Irrigation System
+LAG,Lagoon
+LB,Load Break Switch
+LD,Lifting Device
+LOA,Loading Dock
+LP,Lighting Panel
+LTG,Lighting
+M,Motor
+MCC,Motor Control Centre
+MEQ,Mechanical Equipment
+METR,Meter
+MON,Monitor
+MT,Machine Tool
+MX,"Mixer, Flocculator and Agitator"
+OTF,Outfall Structure
+OZ,Ozonator
+P,Pump
+PA,Public Address System
+PD,Primary Digester
+PDA,Personal Data Assistant
+PDP,Power Distribution Panel
+PIP,Piping Section of Rsystem
+PLBx,Primary Load Breaker x (use only for main substation; also see CB)
+PLC,Programmable Logic Controller
+PLQ,Plumbing Equipment
+PRNT,Printer
+PRTY,Property
+PS,Power Supply
+QUEN,Quencher
+RC,Recorder
+RD,Rupture Disk
+REAC,Reactor
+RES,Reservoir
+SB,"Scrubber (air, gas)"
+SC,"Screen, Trash Rack"
+SCAM,Security Camera
+SCAN,Scanner
+SD,Secondary Gigester
+SEN,Sensor
+SERV,Server
+SM,Shop Machine
+SO,Sulphonator
+SP,Sampler/Sampling Point
+SQ,Safety Equipment
+SS,Security System
+ST,Starter
+STR,Strainer
+STRC,"Structure (wall, ceiling, floor)"
+SW,Switch
+SWG,Switch Gear
+T,"Tank, Vessel"
+TB,Tie Breaker
+TLx,"Transformer, Line x (use only for main substation)"
+TR,Transformer
+UPS,Uninterruptible Power Supply
+V,Valve
+VEH,Vehicle
+VEN,Venturi
+VENT,Vent
+WEL,Well
+WSC,Weigh Scale

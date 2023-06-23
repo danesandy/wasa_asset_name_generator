@@ -1,0 +1,3 @@
+Create a display pane to show the current assets belonging to the various locations 
+Ensure information on SWAN can be exported into a text file (for example)
+Compare codes sent from the asset maintenance team against SCADA codes 

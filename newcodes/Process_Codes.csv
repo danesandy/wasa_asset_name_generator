@@ -1,0 +1,62 @@
+Process_Code,Description
+ACC,"Air Conditioning, Heating and Ventilation"
+AER,Aeration
+AI,Instrument Air System
+ALM,Alum
+AM,Ammoniation
+AMT,Atmosphere Monitoring
+AP,Process Air System
+AUX,Auxiliary System
+B##,Booster ## (Standard Update Added by SCADA)
+BW,Backwash
+CG,Co-Generation
+CLA,Pre-chlorination
+CLB,Post-chlorination
+CLC,Trim-chlorination
+CSO,Combined Storm Overflow
+CW,City Water System
+DCL,De-chlorination
+DEW,Dewatering
+DIG,Digestion
+DIS,Disinfection
+DST,Distribution (Local Distribution)
+ELS,Shops Electrical/Instrumentation
+EPS,Effluent Pumping Station
+FL,Fluoridation
+FLO,Flocculation
+FLT,Filtration
+FPW,Filtered Plant Water
+FT,Final Tanks
+GAC,Granular Activated Carbon
+GAS,Administration Support
+GRK,Groundskeeping
+HRS,Heat Recovery (Steam)
+INC,Incineration
+ITS,Information Technology Systems
+MCS,Shops Mechanical/Welding
+nnn,Water Main Number
+PAC,Powder Acitvated Carbon
+PCL,Polyaluminum Chloride
+PLT,Preliminary Treatment
+POL,Polymer
+PRM,Primary Treatment
+PRS,Phosphorus Removal System
+PWA,Plant Water
+RM,Residue Management
+RSP,Raw Sewerage Pumping
+RW,Raw Water
+SA,Service Air (Non Instrument)
+SED,Sedimentation
+SLD,Sludge Drying
+SLO,Sludge Loading and Odour Control
+SM,Spill Management
+SPC,System Process Control
+STR,Secondary Treatment - use of one of the following:
+SYP,System Pressure Points
+THK,Thickening Waste Activated Sludge
+TRW,Treated Water
+VEH,Vehicles
+W##,Well ##
+WCP,Water Circulation Program
+WWW,Waste Water
+ZMC,Zebra Mussel Control
